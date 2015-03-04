@@ -1,0 +1,5 @@
+C:\System\project\net\event_source1\event_source1\bin\Debug\event_source1.dll
+C:\System\project\net\event_source1\event_source1\bin\Debug\event_source1.pdb
+C:\System\project\net\event_source1\event_source1\obj\Debug\event_source1.dll
+C:\System\project\net\event_source1\event_source1\obj\Debug\event_source1.pdb
+C:\System\project\net\event_source1\event_source1\obj\Debug\event_source1.csprojResolveAssemblyReference.cache

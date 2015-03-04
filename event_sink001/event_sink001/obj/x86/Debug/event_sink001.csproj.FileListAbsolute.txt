@@ -1,0 +1,5 @@
+C:\System\project\net\event_sink001\event_sink001\obj\x86\Debug\event_sink001.csprojResolveAssemblyReference.cache
+C:\System\project\net\event_sink001\event_sink001\bin\Debug\event_sink001.exe
+C:\System\project\net\event_sink001\event_sink001\bin\Debug\event_sink001.pdb
+C:\System\project\net\event_sink001\event_sink001\obj\x86\Debug\event_sink001.exe
+C:\System\project\net\event_sink001\event_sink001\obj\x86\Debug\event_sink001.pdb
